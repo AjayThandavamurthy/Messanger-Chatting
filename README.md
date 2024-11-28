@@ -31,7 +31,7 @@ Chatter-Box is a lightweight and easy-to-use real-time chat application built us
 
 3. Run the application:
     ```bash
-    python app.py
+    python main.py
     ```
 
 4. Open your browser and navigate to `http://127.0.0.1:5000`.
@@ -53,8 +53,9 @@ Chatter-Box is a lightweight and easy-to-use real-time chat application built us
 
 ```plaintext
 Chatter-Box/
-├── app.py                # Main application file
+├── main.py                # Main application file
 ├── templates/
+│   ├── base.html         
 │   ├── home.html         # Home page template
 │   └── room.html         # Chat room template
 ├── static/
