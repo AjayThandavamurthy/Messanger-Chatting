@@ -20,8 +20,8 @@ Chatter-Box is a lightweight and easy-to-use real-time chat application built us
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/chatter-box.git
-    cd chatter-box
+    git clone https://github.com/ajaythandavamurthy/messanger-chatting.git
+    cd messanger-chatting
     ```
 
 2. Install the required dependencies:
